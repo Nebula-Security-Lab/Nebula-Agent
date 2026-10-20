@@ -1,4 +1,4 @@
-# Nebula Agent: CyberGym Level 1 Benchmark Report
+# Nebula Security Lab - Nebula Agent: CyberGym Level 1 Benchmark Report
 
 <p><strong>English</strong> · <a href="./README-zh.md">中文</a></p>
 
